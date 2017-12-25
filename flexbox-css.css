@@ -1,0 +1,27 @@
+body{
+	font-family: Tahoma, Arial, sans-serif;
+}
+
+.proba{
+	display: flex;       /* для підключення технології flex потрібно прописати для матиринського div привло: display властивість flex: */
+}
+	
+.flex{
+	
+	background: blue;
+	width: 1000px;
+	height: 600px;
+	margin: 60px auto;
+	padding: 20px;
+}
+ .flax{
+ 	background: red;
+ 	width: 10%;
+ 	height: 100px;
+ 	position: relative;
+ 	margin: 6px;
+ }
+
+ .element{
+
+ }
